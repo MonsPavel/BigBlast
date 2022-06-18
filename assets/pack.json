@@ -1,0 +1,31 @@
+{
+  "preload": {
+    "files": [
+      {
+        "type": "image",
+        "key": "blue-block",
+        "url": "./assets/images/blue-block.png"
+      },
+      {
+        "type": "image",
+        "key": "green-block",
+        "url": "./assets/images/green-block.png"
+      },
+      {
+        "type": "image",
+        "key": "purple-block",
+        "url": "./assets/images/purple-block.png"
+      },
+      {
+        "type": "image",
+        "key": "red-block",
+        "url": "./assets/images/red-block.png"
+      },
+      {
+        "type": "image",
+        "key": "yellow-block",
+        "url": "./assets/images/yellow-block.png"
+      }
+    ]
+  }
+}
